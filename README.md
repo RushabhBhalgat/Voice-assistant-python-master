@@ -13,3 +13,8 @@ Zira is th name of voice assistance built in python 3.6
 
 <h1>Important</h1>
 <b>Before running the program please edit thr code in VS code or any other IDE and provide your email login details if you also want to send emails</b>
+
+
+
+
+<h1><b>Updates and suggestions are welcomed</b></h1>
